@@ -1,0 +1,13 @@
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\bin\Release\learning-dotnet-desktop.exe.manifest
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\bin\Release\learning-dotnet-desktop.application
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\bin\Release\learning-dotnet-desktop.exe
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\bin\Release\learning-dotnet-desktop.pdb
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning-dotnet-desktop.csprojResolveAssemblyReference.cache
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning_dotnet_desktop.Form1.resources
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning_dotnet_desktop.Properties.Resources.resources
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning-dotnet-desktop.csproj.GenerateResource.Cache
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning-dotnet-desktop.csproj.CoreCompileInputs.cache
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning-dotnet-desktop.exe.manifest
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning-dotnet-desktop.application
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning-dotnet-desktop.exe
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Release\learning-dotnet-desktop.pdb
