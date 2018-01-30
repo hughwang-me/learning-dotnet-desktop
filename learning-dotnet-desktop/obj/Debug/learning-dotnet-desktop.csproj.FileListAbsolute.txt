@@ -1,0 +1,9 @@
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\bin\Debug\learning-dotnet-desktop.exe
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\bin\Debug\learning-dotnet-desktop.pdb
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Debug\learning-dotnet-desktop.csprojResolveAssemblyReference.cache
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Debug\learning_dotnet_desktop.Form1.resources
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Debug\learning_dotnet_desktop.Properties.Resources.resources
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Debug\learning-dotnet-desktop.csproj.GenerateResource.Cache
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Debug\learning-dotnet-desktop.csproj.CoreCompileInputs.cache
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Debug\learning-dotnet-desktop.exe
+E:\workspace\learning-dotnet-desktop\learning-dotnet-desktop\obj\Debug\learning-dotnet-desktop.pdb

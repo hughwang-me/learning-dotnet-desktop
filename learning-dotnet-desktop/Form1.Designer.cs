@@ -28,9 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.BackgroundImage = global::learning_dotnet_desktop.Properties.Resources.Bubbly_2880___副本;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(984, 506);
+            this.DoubleBuffered = true;
+            this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "学习dotnet桌面开发";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
