@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="learning-dotnet-desktop.exe" size="254896">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="learning-dotnet-desktop.exe" size="255408">
       <assemblyIdentity name="learning-dotnet-desktop" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>k+ywH+c90jBEKWn3GIVkAq2IMXA=</dsig:DigestValue>
+        <dsig:DigestValue>/ki1zz81fTO2IlOL7cSH6lBx+Ms=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -30,5 +30,17 @@ namespace learning_dotnet_desktop
         {
 
         }
+
+        private void fontDialog1_Apply(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string name = this.textBox1.Text;
+            string password = this.textBox2.Text;
+            this.Text = name + " | " + password;
+        }
     }
 }
